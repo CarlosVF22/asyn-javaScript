@@ -1,0 +1,16 @@
+{
+  "name": "asyninjavascript",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con javascript de Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "callback":"node src/callback/index.js"
+  },
+  "keywords": [
+    "sync",
+    "javascript",
+    "callback"
+  ],
+  "author": "Carlos Eduardo Vasquez <cevasquezf22@gmail.com>",
+  "license": "MIT"
+}
